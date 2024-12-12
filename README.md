@@ -18,7 +18,7 @@ brew tap Yukaii/ds-store-parser
 Then install:
 
 ```bash
-brew install ds-store-parser
+brew install --head ds-store-parser
 ```
 
 ### Using go install
@@ -26,7 +26,7 @@ brew install ds-store-parser
 If you have Go installed:
 
 ```bash
-go install github.com/Yukaii/ds-store-parser/cmd/ds-store-parser@latest
+go install github.com/Yukaii/ds-store-parser@latest
 ```
 
 Ensure that your GOPATH/bin (or Go bin directory) is in your PATH:

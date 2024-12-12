@@ -1,5 +1,8 @@
 # ds-store-parser
 
+> [!NOTE]
+> **TLDR** I asked o1 to rewrite https://github.com/hanwenzhu/.DS_Store-parser in golang
+
 `ds-store-parser` is a command-line tool that parses Apple's `.DS_Store` files and prints a human-readable interpretation of their contents. This can help you understand what metadata macOS is storing for directories.
 
 ## Installation

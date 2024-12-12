@@ -1,4 +1,4 @@
-module ds-store-parser
+module github.com/Yukaii/ds-store-parser
 
 go 1.23.4
 
